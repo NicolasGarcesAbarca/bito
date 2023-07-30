@@ -11,7 +11,9 @@ export default function Home() {
           <h1 className="font-bold text-6xl text-cyan-primary tracking-wider">BEATS</h1>
         </div>
         <div>
-          <button className="p-4 bg-cyan-primary text-slate-800">Descubrir</button>
+          <button className="p-4 bg-cyan-primary text-slate-800">
+            <p className="tracking-wide">DESCUBRIR</p>
+          </button>
         </div>
       </div>
     </section>
